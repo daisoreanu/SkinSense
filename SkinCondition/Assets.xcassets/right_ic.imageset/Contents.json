@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "filename" : "right_ic.pdf",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
